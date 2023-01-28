@@ -1,0 +1,8 @@
+google-api-python-client==2.60.0
+humanize==4.3.0
+python-dotenv==0.21.0
+Flask==2.2.2
+gunicorn==20.1.0
+Werkzeug==2.2.2
+Flask-Cors==3.0.10
+cinemagoer==2022.12.27
